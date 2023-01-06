@@ -1,0 +1,1 @@
+.scss is for pre processsor
