@@ -1,3 +1,10 @@
 *{
     margin: 0;
+    padding: 0;
+    box-sizing: border-box; //It is used to fit the content in a box and it will have a border to it
+    list-style: none; //It will remove the bullet icons to the list items
+}
+
+body {
+    background-color: red($color: #000000);
 }
