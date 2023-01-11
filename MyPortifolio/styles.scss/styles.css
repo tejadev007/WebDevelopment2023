@@ -5,6 +5,15 @@
   list-style: none;
 }
 
+:root {
+  --color-primary: #191d2b;
+  --color-secondary: #27AE60;
+  --color-white: #FFFFFF;
+  --color-black: #000;
+  --color-grey0: #f8f8f8;
+  --color-grey1: #dbe1e8;
+}
+
 body {
-  background-color: 0;
+  font-family: "Poppins", sans-serif;
 }/*# sourceMappingURL=styles.css.map */

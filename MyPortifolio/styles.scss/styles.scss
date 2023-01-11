@@ -5,6 +5,18 @@
     list-style: none; //It will remove the bullet icons to the list items
 }
 
-body {
-    background-color: red($color: #000000);
+:root{
+    --color-primary: #191d2b;
+    --color-secondary: #27AE60;
+    --color-white: #FFFFFF;
+    --color-black: #000;
+    --color-grey0: #f8f8f8;
+    --color-grey1: #dbe1e8;
+    
+
 }
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
